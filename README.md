@@ -1,7 +1,7 @@
 # Eprime-data-merging
 Standardized script to read and combine individual e-prime text files
 
-Created by [Stefan Vermeent](P.C.S.Vermeent@uu.nl)
+Created by [Stefan Vermeent](mailto:P.C.S.Vermeent@uu.nl)
 
 
 INSTRUCTIONS:
